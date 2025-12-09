@@ -26,8 +26,8 @@ The task was to build an **explainable classification model** that detects wheth
 >
 > ## Data Model Overview
 
-The project integrates seven relational datasets.  
-The diagram below illustrates how the files are connected and which keys are used for joins:
+The project integrates several relational datasets.  
+The diagram below illustrates how the files are connected and what data they contain:
 
 ![Data Schema](File_Analysis/D984257D-E96A-47BB-8ABB-D718B79EC696.jpeg)
 
