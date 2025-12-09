@@ -360,4 +360,4 @@ submission <- bind_cols(
 #submission[submission == "N"] <- "0"  
 #submission[submission == "Y"] <- "1"  
 
-write_csv(submission, "predictions_Hanuta_1.csv")
+write_csv(submission, "predictions_version_B.csv")

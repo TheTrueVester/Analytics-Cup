@@ -242,4 +242,4 @@ submission <- bind_cols(
          prediction = .pred_class) %>%
   arrange(id)
 
-write_csv(submission, "predictions_married_rock_8.csv")
+write_csv(submission, "predictions_version_A.csv")
