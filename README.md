@@ -22,7 +22,14 @@ The task was to build an **explainable classification model** that detects wheth
 - TestData/ — Intermediate dev data.  
 - Example submissions: submission-Chen.csv, submission_random.csv.
 
-> Note: Data is anonymized and may only be used under the Analytics Cup rules. 
+> Note: Data is anonymized and may only be used under the Analytics Cup rules.
+>
+> ## Data Model Overview
+
+The project integrates seven relational datasets.  
+The diagram below illustrates how the files are connected and which keys are used for joins:
+
+![Data Schema](File_Analysis/D984257D-E96A-47BB-8ABB-D718B79EC696.jpeg)
 
 ---
 
